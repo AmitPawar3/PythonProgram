@@ -1,5 +1,4 @@
 # PythonProgram
-Python Program Practice Question 
 Input a year and find whether it is a leap year or not.
 
 Take two numbers and print the sum of both.
